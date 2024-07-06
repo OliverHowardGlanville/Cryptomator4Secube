@@ -95,7 +95,7 @@ This will build all the jars and bundle them together with their OS-specific dep
 
 ### Start Cryptomator
 
-If you unzip the buildkit for your OS, you will find a launcher script with some basic settings. You might want to adjust these to your needs. To start Cryptomator, simply execute the launcher script from a terminal, e.g. `launcher-linux.sh`, if you're on a Linux system.
+If you unzip the buildkit for your OS, you will find a launcher script with some basic settings. You might want to adjust these to your needs.
 
 ## License
 
