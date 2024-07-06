@@ -89,8 +89,6 @@ For more information on the security details visit [cryptomator.org](https://doc
 ```
 mvn clean install
 # or mvn clean install -Pwindows
-# or mvn clean install -Pmac
-# or mvn clean install -Plinux
 ```
 
 This will build all the jars and bundle them together with their OS-specific dependencies under `target`. This can now be used to build native packages.
